@@ -30,6 +30,7 @@
 		58F3505328BB226A00204C74 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F3505228BB226A00204C74 /* ScrumStore.swift */; };
 		58F3505528BB49F900204C74 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F3505428BB49F900204C74 /* ErrorWrapper.swift */; };
 		58F3505728BB4A7E00204C74 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F3505628BB4A7E00204C74 /* ErrorView.swift */; };
+		58F3505928BB506D00204C74 /* MeetingTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F3505828BB506D00204C74 /* MeetingTimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		58F3505228BB226A00204C74 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 		58F3505428BB49F900204C74 /* ErrorWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
 		58F3505628BB4A7E00204C74 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
+		58F3505828BB506D00204C74 /* MeetingTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingTimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				586E279028538A65007B7EF8 /* ScrumdingerApp.swift */,
 				586E279228538A65007B7EF8 /* MeetingView.swift */,
 				588449A828ADFAF900A0B907 /* MeetingFooterView.swift */,
+				58F3505828BB506D00204C74 /* MeetingTimerView.swift */,
 				58430D9B28A6425F0090E703 /* MeetingHeaderView.swift */,
 				588449A428ADEFCE00A0B907 /* ScrumProgressViewStyle.swift */,
 				586E27A3285393F8007B7EF8 /* CardView.swift */,
@@ -220,6 +223,7 @@
 				586E27A2285392DD007B7EF8 /* DailyScrum.swift in Sources */,
 				58A86F2C28A3F8B300368FDB /* DetailView.swift in Sources */,
 				58430D9C28A6425F0090E703 /* MeetingHeaderView.swift in Sources */,
+				58F3505928BB506D00204C74 /* MeetingTimerView.swift in Sources */,
 				583B301528A4E4700060149E /* DetailEditView.swift in Sources */,
 				58F3505528BB49F900204C74 /* ErrorWrapper.swift in Sources */,
 				58A86F2628A3E5CE00368FDB /* TrailingIconLabelStyle.swift in Sources */,
